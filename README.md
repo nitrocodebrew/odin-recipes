@@ -1,6 +1,10 @@
-# odin-recipes
+# Odin Recipes
 
-Recipes project from the Foundations course of The Odin Project.
+# Project Summary
+
+Recipes project from the Foundations course of The Odin Project. The primary
+focus of this course is to get familiar with basic HTML structure--specifically
+lists, images, texts, and links.
 
 ## Image Assets
 
