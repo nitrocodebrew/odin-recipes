@@ -1,6 +1,6 @@
 # Odin Recipes
 
-# Project Summary
+## Project Summary
 
 Recipes project from the Foundations course of The Odin Project. The primary
 focus of this course is to get familiar with basic HTML structure--specifically
